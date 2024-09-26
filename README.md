@@ -69,6 +69,9 @@ I am always looking for ways to optimize performance, improve user experience, a
 
 ## Posted Blog
 
+### Medium
+- [Compound Pattern:React Design Pattern](https://medium.com/@koya9431ptr/compound-pattern-react-design-pattern-80e5cb2c2a1d)
+
 ### Dev.io
 - [How docker work on windows](https://dev.to/koya-tech/how-docker-works-on-windows-1gn6)
 
