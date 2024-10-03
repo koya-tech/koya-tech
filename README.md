@@ -20,7 +20,11 @@
 ### Glad to see you here!  
 As a developer, I have always been passionate about creating elegant and effective solutions to complex problems. 
 I am always looking for ways to optimize performance, improve user experience, and ensure the highest level of code quality.  
-  
+
+<br/>
+
+#### I have been working on creating a develop branch for a while. 
+#### Therefore, my activity is not reflected in the activity but I am still active!!　😅
 
 <br/>  
 
