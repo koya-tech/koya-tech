@@ -74,6 +74,7 @@ I am always looking for ways to optimize performance, improve user experience, a
 ## Posted Blog
 
 ### Medium
+- [Java Design Pattern:Credential Design](https://medium.com/@koya9431ptr/design-pattern-in-java-ed3bd331c195)
 - [Compound Pattern:React Design Pattern](https://medium.com/@koya9431ptr/compound-pattern-react-design-pattern-80e5cb2c2a1d)
 
 ### Dev.io
